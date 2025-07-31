@@ -10,10 +10,10 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ilswrm.github.io/fm-blog-card/
 
 ### Built with
 
